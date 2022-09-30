@@ -191,7 +191,7 @@ function draw() {
                     scr.play(); 
                     punch1.play();
                   
-                    player2Life = player2Life - 50;
+                    player2Life = player2Life - 25;
 
                 }
 
